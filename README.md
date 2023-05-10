@@ -14,4 +14,4 @@ Sadly, at the moment you can only download audio. [^1]
 [^1]: It's in **.webm** format. (Convertion to .mp3 later)
 
 ## Screenshot
-![The UI](image.jpg)
+![The UI](screenshot.jpg)
